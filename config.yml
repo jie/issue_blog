@@ -1,0 +1,30 @@
+# site title
+title: Just another developer log
+
+# user name or organization name
+user: Yang
+
+# issue repository
+repository: issue_blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 417786909f9b94bfc631bf40549a31843d7431f1
+
+# posts per page
+perpage: 20
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'CREATED_AT'
