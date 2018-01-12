@@ -8,8 +8,7 @@ user: jie
 repository: issue_blog
 
 # multi-author
-authors:
-  - Yang
+authors: Yang
 
 # token
 # token should be separated by '#'
