@@ -9,6 +9,7 @@ repository: issue_blog
 
 # multi-author
 authors:
+  - Yang
 
 # token
 # token should be separated by '#'
